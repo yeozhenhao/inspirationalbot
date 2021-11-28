@@ -1,20 +1,22 @@
 # yeozhenhao's inspirational Telegram Bot with DIY Google Sheets Database-cum-API 
 ## Bot functions (in photos)
-*I believe that a picture paints a thousand words - yeozhenhao*\
+*I believe that a picture paints a thousand words - yeozhenhao*
 
 ![Starting the bot & starting your message with @clinicals](botPics/startbot.png)\
 ***Starting the bot & starting your message with @clinicals***\
 Starting any message with @clinicals will tell the bot to save the entire text after "@clinicals " into a single row entry in the 1st Google Sheets (main bot) under the **clinicals** tab
-
+####
+####
 ![Joke, Quote and Meme command](botPics/jokequotememe.png)\
 ***Joke, Quote and Meme command***
-
+####
 ![Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API](botPics/joke.png)\
 ***Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API***
-
+####
 ![Meme command after update to show the total number of memes available stored on Google Drive](botPics/meme.png)\
 ***Meme command after update to show the total number of memes available stored on Google Drive***
-
+####
+####
 ![Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts](botPics/credits.png)\
 ***Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts***
 
