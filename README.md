@@ -22,7 +22,7 @@ Starting any message with @clinicals will tell the bot to save the entire text a
 ***When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive***
 ####
 ## What the bot uses
-- Two Google Sheets, 1st to run the main bot, the 2nd to run the Database-cum-API
+- Amazingly, just two Google Sheets, 1st to run the main bot, the 2nd to run the Database-cum-API. No IDE required, just the underrated Google Apps Script that's available on every Google Doc/Sheets on Google Drive. 
   - 1st Sheet with the main bot will have 3 tabs:
     1. **Sheet 1** which logs all messages sent to the bot
     2. **MemeSubmission** which logs messages containing a photo (which is a submission of a meme)
@@ -46,6 +46,8 @@ Starting any message with @clinicals will tell the bot to save the entire text a
   
 - Technically, the bot is stored 24/7 for free in a Google Sheet on Google Drive, using Webhook to retrieve any updates from the Telegram bot. Talk about free real estate!
   - To turn a Google Sheet into a smart Sheet that can run the main bot / run a Database-cum-API, you will need the magic of Google Apps Script (you may access it under the *Extensions* tab)
+
+- That goes without saying that you will definitely need to key in the jokes & quotes into the Google Sheets database-cum-API, and also upload the memes onto your Google Drive.
 
 #### About this project
 Made a bot for NUS Medical Club (aka MedNurse Club) for Nursing &amp; Medical students to get jokes, quotes and submit their memes!
