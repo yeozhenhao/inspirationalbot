@@ -1,5 +1,27 @@
 # yeozhenhao's inspirational Telegram Bot with DIY Google Sheets Database-cum-API 
-## Features
+## Bot functions (in photos)
+*I believe that a picture paints a thousand words - yeozhenhao*\
+
+![Starting the bot & starting your message with @clinicals](botPics/startbot.png)\
+***Starting the bot & starting your message with @clinicals***\
+Starting any message with @clinicals will tell the bot to save the entire text after "@clinicals " into a single row entry in the 1st Google Sheets (main bot) under the **clinicals** tab
+
+![Joke, Quote and Meme command](botPics/jokequotememe.png)\
+***Joke, Quote and Meme command***
+
+![Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API](botPics/joke.png)\
+***Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API***
+
+![Meme command after update to show the total number of memes available stored on Google Drive](botPics/meme.png)\
+***Meme command after update to show the total number of memes available stored on Google Drive***
+
+![Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts](botPics/credits.png)\
+***Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts***
+
+![When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive](botPics/memesubmission.png)\
+***When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive***
+
+## What the bot uses
 - Two Google Sheets, 1st to run the main bot, the 2nd to run the Database-cum-API
   - 1st Sheet with the main bot will have 3 tabs:
     1. **Sheet 1** which logs all messages sent to the bot
@@ -24,8 +46,6 @@
   
 - Technically, the bot is stored 24/7 for free in a Google Sheet on Google Drive, using Webhook to retrieve any updates from the Telegram bot. Talk about free real estate!
   - To turn a Google Sheet into a smart Sheet that can run the main bot / run a Database-cum-API, you will need the magic of Google Apps Script (you may access it under the *Extensions* tab)
-
-- 
 
 #### About this project
 Made a bot for NUS Medical Club (aka MedNurse Club) for Nursing &amp; Medical students to get jokes, quotes and submit their memes!
@@ -76,23 +96,3 @@ self-explanatory
    - You may want to edit the instruction texts of the Telegram bot in the main bot Code.gs; the instructions were meant for my school community.
    - Instead of verbally explaining the functionalities of my bot, I feel that picture paints a thousand words. So I will just include photos of my bot functions below with captions!
 8. Please share this GitHub around if you enjoyed this tutorial! It is my pleasure to give back to the community after learning so much about coding from different articles on the Internet.
-
-## Bot functions (in photos)
-![Starting the bot & starting your message with @clinicals](botPics/startbot.png)\
-***Starting the bot & starting your message with @clinicals***\
-Starting any message with @clinicals will tell the bot to save the entire text after "@clinicals " into a single row entry in the 1st Google Sheets (main bot) under the **clinicals** tab
-
-![Joke, Quote and Meme command](botPics/jokequotememe.png)\
-***Joke, Quote and Meme command***
-
-![Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API](botPics/joke.png)\
-***Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API***
-
-![Meme command after update to show the total number of memes available stored on Google Drive](botPics/meme.png)\
-***Meme command after update to show the total number of memes available stored on Google Drive***
-
-![Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts](botPics/credits.png)\
-***Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts***
-
-![When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive](botPics/memesubmission.png)\
-***When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive***
