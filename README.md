@@ -80,7 +80,7 @@ self-explanatory
 ## Bot functions (in photos)
 ![Starting the bot & starting your message with @clinicals](botPics/startbot.png)\
 ***Starting the bot & starting your message with @clinicals***\
-Starting any message with @clinicals will tell the bot to save the long text part into the 1st Google Sheets (main bot) under the **clinicals** tab
+Starting any message with @clinicals will tell the bot to save the entire text after "@clinicals " into a single row entry in the 1st Google Sheets (main bot) under the **clinicals** tab
 
 ![Joke, Quote and Meme command](botPics/jokequotememe.png)\
 ***Joke, Quote and Meme command***
