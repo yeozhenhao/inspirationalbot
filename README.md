@@ -17,10 +17,10 @@ Starting any message with @clinicals will tell the bot to save the entire text a
 ####
 ![Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts](botPics/credits.png)\
 ***Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts***
-
+####
 ![When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive](botPics/memesubmission.png)\
 ***When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive***
-
+####
 ## What the bot uses
 - Two Google Sheets, 1st to run the main bot, the 2nd to run the Database-cum-API
   - 1st Sheet with the main bot will have 3 tabs:
