@@ -74,7 +74,8 @@ self-explanatory
    - [Impt reference link 2](https://docs.google.com/spreadsheets/d/1C55j4UC2agNM4fvN2plIVsQrLaAV2Q0wYE2TE3KpJK0/edit?usp=sharing): *App* tab example
 7. That's it! Your Telegram Bot should work.
    - You may want to edit the instruction texts of the Telegram bot in the main bot Code.gs; the instructions were meant for my school community.
-   - I will like to explain more about the functionalities of my bot, but I think they are self-explanatory so I will just include photos of my bot functions below with captions!
+   - Instead of verbally explaining the functionalities of my bot, I feel that picture paints a thousand words. So I will just include photos of my bot functions below with captions!
 8. Please share this GitHub around if you enjoyed this tutorial! It is my pleasure to give back to the community after learning so much about coding from different articles on the Internet.
 
 ##Bot functions (in photos)
+![](/botPics/startbot.png)
