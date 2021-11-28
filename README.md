@@ -78,4 +78,20 @@ self-explanatory
 8. Please share this GitHub around if you enjoyed this tutorial! It is my pleasure to give back to the community after learning so much about coding from different articles on the Internet.
 
 ##Bot functions (in photos)
-![](/botPics/startbot.png)
+![Starting the bot & starting your message with @clinicals](botPics/startbot.png)
+***Starting the bot & starting your message with @clinicals***
+
+![Joke, Quote and Meme command](botPics/jokequotememe.png)
+***Joke, Quote and Meme command***
+
+![Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API](botPics/joke.png)
+***Joke command after update to show the total number of jokes available stored on Google Sheets database-cum-API***
+
+![Meme command after update to show the total number of memes available stored on Google Drive](botPics/meme.png)
+***Meme command after update to show the total number of memes available stored on Google Drive***
+
+![Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts](botPics/credits.png)
+***Giving credit where it's due: >2000 medical memes were taken from various meme Instagram accounts***
+
+![When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive](botPics/memesubmission.png)
+***When you send the bot any photo, it instantly gets uploaded to a specific folder on Google Drive***
