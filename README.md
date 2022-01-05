@@ -1,5 +1,8 @@
 # yeozhenhao's inspirational Telegram Bot with DIY Google Sheets Database-cum-API 
 ## Bot functions (in photos)
+*As seen on NUS Medical Club's Instagram!*\
+[(Link to Instagram Post)](https://www.instagram.com/p/CU0OV8nBAy1)
+## Bot functions (in photos)
 *I believe that a picture paints a thousand words - yeozhenhao*
 ####
 ![Starting the bot & starting your message with @clinicals](botPics/startbot.png)\
